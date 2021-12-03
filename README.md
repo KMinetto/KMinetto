@@ -11,7 +11,6 @@ Passionné par l'univers de l'informatique, je m'intéresse beaucoup aux nouvell
 ![](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-48.png)
 ![](https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-48.png)
 ![](https://cdn0.iconfinder.com/data/icons/design-and-development-6-2/48/263-48.png)\
-\
 ![](https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-48.png)
 
 ## Frameworks et Libraries
