@@ -22,12 +22,12 @@ Passionné par l'univers de l'informatique, je m'intéresse beaucoup aux nouvell
 ![](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-48.png)
 
 ## IDE
-![](https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/phpstorm-256.png)
-![](https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-256.png)
+![](https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/phpstorm-150.png)
+![](https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-150.png)
 
 ## Outils de versionning
-![](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png)
-![](https://cdn0.iconfinder.com/data/icons/social-15/200/github-icon-256.png)
+![](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-150.png)
+![](https://cdn0.iconfinder.com/data/icons/social-15/200/github-icon-150.png)
 
 
 
