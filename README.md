@@ -4,7 +4,9 @@
   
 - 🔭 Je suis actuellement en recherche d'emploi.
   
-- 🌱 Je suis diplômé d'un titre professionnel.
+- 🌱 Je suis diplômé d'un titre professionnel Designer Web.
+
+- 💡 Je suis une formation complète pour apprendre le Java
   
 - 💬 Languages que j'utilise le plus : **PHP/Symfony, VueJs, Java**
   
