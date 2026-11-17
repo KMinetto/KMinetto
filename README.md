@@ -5,10 +5,8 @@
 - 🔭 Je suis actuellement en recherche d'emploi.
   
 - 🌱 Je suis diplômé d'un titre professionnel Designer Web.
-
-- 💡 Je suis une formation complète pour apprendre le Java
   
-- 💬 Languages que j'utilise le plus : **PHP/Symfony, VueJs, Java**
+- 💬 Languages que j'utilise le plus : **PHP/Symfony, VueJs**
   
 Liens vers mon portfolio. <a href="https://kminetto.github.io/Portfolio/" target="blank">
     cliquez-ici.
